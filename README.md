@@ -1,2 +1,1 @@
-# Z80
-Z80 emulator
+http://kwhr0.g2.xrea.com/z80/
